@@ -69,5 +69,12 @@
         </a>
     </td>
    </tr>
+   <td align="center">
+        <a href="https://github.com/Jayshaha1009">
+            <img src="https://avatars.githubusercontent.com/u/124890353?v=4" width="100;" alt="Jay Shaha"/>
+            <br />
+            <sub><b>Jay Shaha</b></sub>
+        </a>
+    </td>
 </table>
 <!-- readme: contributors -end -->
