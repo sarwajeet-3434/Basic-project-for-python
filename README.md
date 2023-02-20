@@ -61,6 +61,13 @@
             <sub><b>Mohit Mahajan</b></sub>
         </a>
     </td>
+   <td align="center">
+        <a href="https://github.com/arnoldsilway">
+            <img src="https://avatars.githubusercontent.com/u/125856796?v=4" width="100;" alt="Arnold"/>
+            <br />
+            <sub><b>Arnold Silway</b></sub>
+        </a>
+    </td>
    </tr>
 </table>
 <!-- readme: contributors -end -->
